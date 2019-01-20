@@ -2,7 +2,7 @@
 #define CTEST_CPP_ 
 #include <limits.h>
 #include <gtest/gtest.h>
-#include "../Euclidean.cpp"
+#include "../src/Euclidean.cpp"
 #include <cmath>
 
 TEST(initializationTest, one) {

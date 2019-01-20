@@ -1,0 +1,7 @@
+how to generate docs:
+	doxygen doxyfile
+
+how to read docs
+	open html/index.html file with browser
+
+
