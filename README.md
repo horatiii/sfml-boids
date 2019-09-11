@@ -1,9 +1,10 @@
 # sfml-boids
-requirements:
-  sfml
+- visualisation of swarm movement 
+- requirements: sfml (i.e libsfml-dev package on Ubuntu)
   
-How to compile:
-  make
+## How to run
+  `make && ./executable` 
 
-How to run:
-  ./executable
+
+## Result
+![](img/demonstration.gif)
